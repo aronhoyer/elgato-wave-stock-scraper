@@ -1,0 +1,17 @@
+{
+  "name": "wave-stock-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aron Høyer (https://aronhoyer.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^8.0.0",
+    "puppeteer": "^5.2.1"
+  }
+}
